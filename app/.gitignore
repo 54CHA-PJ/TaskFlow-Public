@@ -1,0 +1,20 @@
+
+# Useless
+.firebase
+.vscode
+
+# NodeJS
+/node_modules
+package-lock.json
+
+# Build
+/dist
+
+# Secret
+.env
+
+# GPT
+gpt.cmd
+gpt.txt
+gptfiles.txt
+filelist.txt
